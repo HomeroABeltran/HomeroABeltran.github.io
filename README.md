@@ -2,5 +2,5 @@ Hello, This is the personal Page for Homero A. Beltran
 
 I'm trying this out because I've always wanted to do web development and have some experience with React and JavaScript.
 
-Later down the line i'll learn how to add more features and also learn wordpress as a alternative way to host my website.
+Later down the line I'll learn how to add more features and also learn wordpress as a alternative way to host my website.
 
