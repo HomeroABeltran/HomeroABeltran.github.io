@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
 <link rel="manifest" href="icons/site.webmanifest">
-     <script>
+    <script>
         function toggleDarkMode() {
             document.body.classList.toggle('bg-dark');
             document.body.classList.toggle('text-white');
@@ -28,6 +28,7 @@
                 item.classList.toggle('bg-dark');
                 item.classList.toggle('text-white');
             });
+        });
             document.body.classList.toggle('bg-dark');
             document.body.classList.toggle('text-white');
             document.querySelectorAll('.card').forEach(card => card.classList.toggle('bg-secondary'));
